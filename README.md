@@ -104,7 +104,7 @@ This is an actively developed project. Contributions and suggestions are welcome
 **Adarsh**
 BSc Bioinformatics — Swami Vivekanand Subharti University
 GitHub: [adrix-ft](https://github.com/adrix-ft)
-ORCID: [N/a]
+ORCID: [0009-0002-7040-170X](https://orcid.org/0009-0002-7040-170X)
  
 ---
  
