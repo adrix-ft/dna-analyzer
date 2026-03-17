@@ -101,10 +101,10 @@ This is an actively developed project. Contributions and suggestions are welcome
  
 ## Author
  
-**Your Name**
+**Adarsh**
 BSc Bioinformatics — Swami Vivekanand Subharti University
-GitHub: [your-username](https://github.com/your-username)
-ORCID: [your-orcid]
+GitHub: [adrix-ft](https://github.com/adrix-ft)
+ORCID: [N/a]
  
 ---
  
